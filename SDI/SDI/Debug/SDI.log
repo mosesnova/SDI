@@ -1,0 +1,7 @@
+﻿  SDI.cpp
+d:\win32apimfc\sdi\sdi\sdi.cpp(2): warning C4005: 'UNICODE': macro redefinition
+  d:\win32apimfc\sdi\sdi\sdi.cpp: note: see previous definition of 'UNICODE'
+d:\win32apimfc\sdi\sdi\sdi.cpp(2): warning C4603: 'UNICODE': macro is not defined or definition is different after precompiled header use
+  d:\win32apimfc\sdi\sdi\sdi.cpp(2): note: Add macro to precompiled header instead of defining here
+  d:\win32apimfc\sdi\sdi\sdi.cpp(6): note: use of precompiled header
+  SDI.vcxproj -> D:\Win32APIMFC\SDI\Debug\SDI.exe
